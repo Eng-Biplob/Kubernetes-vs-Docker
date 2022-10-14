@@ -108,3 +108,4 @@
     </div>
 </div>
 <p>Reference:&nbsp;<a href="https://www.dynatrace.com/news/blog/kubernetes-vs-docker/">Kubernetes vs Docker: What&apos;s the difference? | Dynatrace news</a> &nbsp;</p>
+<p>Another Reference:&nbsp;<a href="https://www.guru99.com/kubernetes-vs-docker.html">Kubernetes vs Docker &ndash; Difference Between Them (guru99.com)</a>&nbsp;</p>
